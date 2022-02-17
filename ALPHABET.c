@@ -1,3 +1,5 @@
+https://www.codechef.com/problems/ALPHABET
+
 #include<stdio.h>
 #include <string.h>
 char str[27];
